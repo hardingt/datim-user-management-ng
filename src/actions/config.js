@@ -188,15 +188,6 @@ const configuration = {
         sortOrder: 2,
       },
       {
-        hidden: 0,
-        locked: 1,
-        name: "View Unapproved Data",
-        preSelected: 1,
-        roleUID: "R74PQmVFl6R",
-        selectWhenUA: 1,
-        sortOrder: 3,
-      },
-      {
         hidden: 1,
         locked: 0,
         name: "Data Entry Aggregate",
